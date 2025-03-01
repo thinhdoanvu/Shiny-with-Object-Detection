@@ -23,7 +23,7 @@ pip install ultralytics opencv-python numpy
 ## Configure reticulate in R (app.R file)
 ```
 library(reticulate)
-use_virtualenv("~/Users/thinhdoanvu/.virtualenvs/shiny_yolov8", required = TRUE)
+use_virtualenv("/Users/thinhdoanvu/shiny_yolov8/")
 
 ```
 ## app.R 
